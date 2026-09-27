@@ -1,0 +1,3 @@
+streamlit
+hindsight-client
+python-dotenv
